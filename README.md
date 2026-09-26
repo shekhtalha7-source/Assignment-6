@@ -2,7 +2,7 @@
 
 FitLog is a dark, no-nonsense gym companion. Browse a library of twelve lifts, open a detail page, lock lifts into today's plan, save others for later, and watch minutes and calories add up live.
 
-##🛠 Technologies
+## 🛠 Technologies
 
 ⚛️ Next.js 14 (App Router)
 ⚛️ React 18
@@ -11,7 +11,7 @@ FitLog is a dark, no-nonsense gym companion. Browse a library of twelve lifts, o
 🔤 Oswald + Inter (Google Fonts)
 ☁️ Deployed on Vercel
 
-##✨ Features
+## ✨ Features
 
 📱 Responsive library — 3-column grid on desktop that collapses to 2 and 1 on tablet and mobile.
 🔽 Sort on My Plan — sort your plan or saved list by Duration, Calories, or Rating.
