@@ -36,5 +36,5 @@ Open http://localhost:3000.
 
 ## 🔗 Links
 
-- Live: https://fitlog-nextjs.vercel.app/
+- Live: https://assignment-6-sable-xi.vercel.app/
 - Repo: https://github.com/shekhtalha7-source/Assignment-6
